@@ -1,5 +1,5 @@
 # TmallSpider
-![表结构](https://github.com/joson1205/TmallSpider/blob/master/table.png?raw=true)
+![表结构](https://github.com/joson1205/TmallSpider/blob/master/table.jpg?raw=true)
 
 ## 使用
     * 如果是第一次使用,请先运行 setting.py 文件,创建相关表
